@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-indigo-50: #f4f7fa;
+  --color-indigo-100: #e3ecf4;
+  --color-indigo-200: #c1d5e6;
+  --color-indigo-300: #9abed4;
+  --color-indigo-400: #71a4c0;
+  --color-indigo-500: #518ab0;
+  --color-indigo-600: #3b7197;
+  --color-indigo-700: #2b5a84;
+  --color-indigo-800: #254d71;
+  --color-indigo-900: #22415f;
+
+  --color-emerald-50: #f5fbf1;
+  --color-emerald-100: #e7f5de;
+  --color-emerald-200: #c9eabc;
+  --color-emerald-300: #a7db96;
+  --color-emerald-400: #85c96f;
+  --color-emerald-500: #64b035;
+  --color-emerald-600: #4e8c28;
+  --color-emerald-700: #3d6e20;
+  --color-emerald-800: #33591c;
+  --color-emerald-900: #2a4a19;
+
+  --font-sans: "Cairo", ui-sans-serif, system-ui, sans-serif;
+}
+
